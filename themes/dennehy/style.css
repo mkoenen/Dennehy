@@ -8,7 +8,7 @@ Author URI: http://loudfeed.tv
 Template: simplekey
 Tags: one-page
 
-bgcolor: #532750;
+background color: #532750;
 */
 
 @import url( ../simplekey/style.css );
@@ -22,9 +22,6 @@ width: 220px;
 
 /********** Navigation **************/
 
-#primary-menu {
-background: #532750;
-}
 /********** home **************/
 .home .page-area .wrapper {
 	width: auto;
