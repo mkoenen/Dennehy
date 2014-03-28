@@ -9,6 +9,7 @@ Template: simplekey
 Tags: one-page
 
 background color: #532750;
+link color: #50314E;
 */
 
 @import url( ../simplekey/style.css );
@@ -17,10 +18,13 @@ background color: #532750;
 
 /********** Header ******************/
 h1#site-logo, h1#site-logo a {
-width: 220px;
+width: 260px;
 }
 
 /********** Navigation **************/
+#primary-menu {
+background: #532750;
+}
 
 /********** home **************/
 .home .page-area .wrapper {
