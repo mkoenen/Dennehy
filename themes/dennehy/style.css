@@ -1,14 +1,15 @@
 /*
 Theme Name: dennehy
 Theme URI: http://loudfeed.tv/
-Description: One Page Theme, child of Simplekey
+Description: One Page Theme for Dennehy Law Firm, child of Simplekey
 Version: 1.0
 Author: Margarete Koenen
 Author URI: http://loudfeed.tv
 Template: simplekey
 Tags: one-page
 
-bgcolor: #532750;
+background color: #532750;
+link color: #50314E;
 */
 
 @import url( ../simplekey/style.css );
@@ -17,14 +18,14 @@ bgcolor: #532750;
 
 /********** Header ******************/
 h1#site-logo, h1#site-logo a {
-width: 220px;
+width: 260px;
 }
 
 /********** Navigation **************/
-
 #primary-menu {
 background: #532750;
 }
+
 /********** home **************/
 .home .page-area .wrapper {
 	width: auto;
